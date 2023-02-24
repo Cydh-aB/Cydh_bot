@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1",
+    "mongoose": "^6.10.0",
+    "quick.db": "^9.0.8"
+  }
+}
